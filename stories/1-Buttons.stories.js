@@ -8,7 +8,7 @@ export default {
   decorators: [withKnobs],
 };
 
-export const OutlineSquare = () => ({
+export const Outline = () => ({
   components: { 'outline-button': OutlineButton },
   props: {
     color: { default: select('Color', colorsList) },
