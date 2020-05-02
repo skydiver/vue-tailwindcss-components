@@ -1,6 +1,7 @@
 {
   "name": "vue-personal-tailwindcss",
   "version": "1.0.0",
+  "description": "Personal collection of Vue TailwindCSS components",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
@@ -17,6 +18,7 @@
     "@storybook/addon-actions": "^5.3.18",
     "@storybook/addon-knobs": "^5.3.18",
     "@storybook/addon-links": "^5.3.18",
+    "@storybook/addon-storysource": "^5.3.18",
     "@storybook/addons": "^5.3.18",
     "@storybook/vue": "^5.3.18",
     "@vue/cli-plugin-babel": "^4.3.1",
